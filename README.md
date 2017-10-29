@@ -7,6 +7,6 @@ take it with a pinch of salt, as
 I am still a learner!
 
 
-# What content does this contain?
+# What content does this contain ?
 This includes all the programming related things which I have learnt over last 3-4 years.
-Its still starting, or as we say WIP. SO take a chill pill for some time, and come back later.
+It's still starting, or as we say WIP. So take a chill pill for some time, and come back later.
