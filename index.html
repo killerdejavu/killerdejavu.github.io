@@ -1,3 +1,6 @@
+---
+# front matter tells Jekyll to process Liquid
+---
 <html>
 <head>
     <title> My Page! </title>
@@ -15,12 +18,13 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
             integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
             crossorigin="anonymous"></script>
-    
+
 </head>
 <body>
 <div class="page">
-This page is WIP (Work in progress)
-I have still just added the base html, css (scss) files. Haven't gotten much time to work on this :(
+    <h1>{{ "Hello World!" | downcase }}</h1>
+    This page is WIP (Work in progress)
+    I have still just added the base html, css (scss) files. Haven't gotten much time to work on this :(
 </div>
 </body>
 </html>
